@@ -1,0 +1,6 @@
+{
+  "name": "Aban Welfare Foundation (AWF)",
+  "description": "A cause for your akhirah. Official web application of Aban Welfare Foundation honoring the memory of Aban Khan through Welfare Assistance and Educational Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+
+  --color-terracotta: #9E4927;
+  --color-terracotta-dark: #82381B;
+  --color-terracotta-light: #B85F3B;
+  --color-warm-ivory: #FAF5ED;
+  --color-warm-ivory-surface: #F4EADB;
+  --color-deep-brown: #4A2C22;
+  --color-deep-brown-dark: #351F18;
+  --color-sand: #D8B99A;
+  --color-sand-light: #EBDCCD;
+  --color-sand-dark: #C29F7E;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    color: #4A2C22;
+    background-color: #FAF5ED;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: var(--font-serif);
+  }
+}
+
+/* Custom delicate scrollbars and focus rings */
+:focus-visible {
+  outline: 2px solid #9E4927;
+  outline-offset: 2px;
+}

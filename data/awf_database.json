@@ -1,0 +1,212 @@
+{
+  "programs": [
+    {
+      "id": "prog-healthcare-01",
+      "slug": "healthcare",
+      "title": "Healthcare Assistance",
+      "category": "healthcare",
+      "tagline": "Emergency medical aid, life-saving medicines, and critical patient support.",
+      "description": "The Healthcare Assistance program provides vital medical funding for vulnerable patients facing acute illnesses, emergency treatments, diagnostic expenses, or life-saving medication costs. We honor Aban Khan by bringing healing and relief to families under health crises.",
+      "eligibilityCriteria": [
+        "Patients facing acute or chronic health conditions unable to bear hospitalization or medicine costs.",
+        "Verifiable medical prescription, diagnostic report, or hospital estimate.",
+        "Priority consideration for emergency surgeries, pediatric treatments, and elderly care.",
+        "Transparent verification directly with attending clinics, hospitals, or pharmacies."
+      ],
+      "geographicScope": "Pakistan (Priority focus: Karachi & Regional Districts)",
+      "applicationStatus": "Applications Open",
+      "openingDate": "2026-10-01",
+      "closingDate": "2027-12-31",
+      "requiredDocumentsNote": "Upload any medical evidence: prescription slips, hospital admission estimate, diagnostic test reports, or pharmacy invoices.",
+      "reviewProcessSummary": "Reviewed confidentially by our medical welfare committee within 3–7 business days, with direct hospital/pharmacy settlements wherever possible.",
+      "updatedAt": "2026-10-30T08:25:33.611Z"
+    },
+    {
+      "id": "prog-education-02",
+      "slug": "education",
+      "title": "Educational Support",
+      "category": "education",
+      "tagline": "Opening doors of learning, technical training, and university education in memory of Aban Khan.",
+      "description": "In memory of Aban Khan—a proud Electrical Engineering graduate of NED University—AWF sponsors striving students facing fee crises. We believe education provides the most durable Sadaqah Jariyah and generational empowerment.",
+      "eligibilityCriteria": [
+        "Students enrolled or admitted in recognized secondary schools, technical colleges, or accredited universities.",
+        "Demonstrated academic sincerity and verifiable financial difficulty.",
+        "Coverage includes university/school tuition fees, examination dues, or essential textbooks.",
+        "Periodic academic review to sustain continuous sponsorship."
+      ],
+      "geographicScope": "Pakistan (Institutions nationwide)",
+      "applicationStatus": "Applications Open",
+      "openingDate": "2026-10-01",
+      "closingDate": "2027-12-31",
+      "requiredDocumentsNote": "Upload student ID, current institution fee voucher, admission letter, or previous semester marksheet.",
+      "reviewProcessSummary": "Direct institutional fee transfer to university or school accounts upon review and validation.",
+      "updatedAt": "2026-10-30T08:25:33.612Z"
+    },
+    {
+      "id": "prog-essential-03",
+      "slug": "essential-needs",
+      "title": "Essential Needs (Other Needs)",
+      "category": "essential_needs",
+      "tagline": "Crucial household sustenance, nutritional rations, and urgent emergency relief.",
+      "description": "Supports families facing severe poverty, catastrophic income loss, or sudden emergency crises. From family food packages to basic household survival, we offer compassionate relief with strict recipient dignity.",
+      "eligibilityCriteria": [
+        "Families facing genuine economic distress, unemployment, or loss of household breadwinner.",
+        "Priority for widows, orphans, disabled individuals, or families in urgent crises.",
+        "Willingness to provide basic verifiable contact information for private verification."
+      ],
+      "geographicScope": "Karachi & Surrounding Regions (Phase 1)",
+      "applicationStatus": "Applications Open",
+      "openingDate": "2026-10-01",
+      "closingDate": "2027-12-31",
+      "requiredDocumentsNote": "Upload utility bills, proof of address, or written statement of family need.",
+      "reviewProcessSummary": "Evaluated confidentially by the AWF welfare review panel within 5–10 business days.",
+      "updatedAt": "2026-10-30T08:25:33.612Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-709b27c0-bfd7-46b4-a735-e72db00de922",
+      "referenceNumber": "AWF-HELP-2026-D5123F",
+      "status": "Received",
+      "internalNotes": [],
+      "emailLogs": [
+        {
+          "id": "mail-f9acbb67-b632-4cbd-9d2d-9d782f5f9860",
+          "recipientEmail": "fatima.bibi@gmail.com",
+          "subject": "Application Received: AWF-HELP-2026-D5123F — Aban Welfare Foundation",
+          "preview": "Dear Fatima Bibi, your assistance request for Healthcare has been received safely. Tracking Code: AWF-HELP-2026-D5123F. Our team will review your evidence and contact you.",
+          "sentAt": "2026-10-30T08:25:45.365Z",
+          "status": "sent"
+        }
+      ],
+      "createdAt": "2026-10-30T08:25:45.365Z",
+      "updatedAt": "2026-10-30T08:25:45.365Z",
+      "programId": "prog-healthcare-01",
+      "programTitle": "Healthcare Assistance",
+      "category": "Healthcare",
+      "fullName": "Fatima Bibi",
+      "preferredContact": "phone",
+      "phone": "03009876543",
+      "email": "fatima.bibi@gmail.com",
+      "cityArea": "Karachi",
+      "assistanceNeeded": "My elderly mother requires urgent diagnostic cardiac tests and specialized prescription medications following an acute hospitalization event. Our family has a single daily wage earner and cannot cover the medical pharmacy expenses this month. We are requesting immediate healthcare support to acquire the necessary medications and follow up with the physician at Civil Hospital Karachi.",
+      "wordCount": 55,
+      "evidenceFileName": "prescription.pdf",
+      "evidenceFileData": "data:application/pdf;base64,JVBERi0xLjQK",
+      "privacyConsent": true
+    }
+  ],
+  "donations": [
+    {
+      "id": "don-851ef24b-b564-4590-a587-f8dd55404ebc",
+      "referenceNumber": "AWF-DON-2026-2D2736",
+      "amount": 10000,
+      "currency": "PKR",
+      "category": "Education",
+      "donorName": "Ali Raza",
+      "donorEmail": "ali.raza@gmail.com",
+      "isAnonymous": false,
+      "screenshotFileName": "sadapay_receipt_10k.png",
+      "screenshotFileData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "screenshotFileType": "image/png",
+      "sadapayAccountTitle": "",
+      "sadapayIban": "",
+      "status": "verified",
+      "emailLogs": [
+        {
+          "id": "mail-3add57c7-4e74-4cf9-b69d-73d23c6f28ac",
+          "recipientEmail": "ali.raza@gmail.com",
+          "subject": "Donation Verified & Approved: AWF-DON-2026-2D2736 — JazakAllah Khair",
+          "preview": "Dear Ali Raza, your donation of PKR 10,000 to Aban Welfare Foundation (Education) has been verified and cleared into our SadaPay account. JazakAllah Khair for supporting your akhirah.",
+          "sentAt": "2026-10-30T08:26:02.894Z",
+          "status": "sent"
+        },
+        {
+          "id": "mail-af3a8c66-4094-4078-9d22-fcc4f779cc3c",
+          "recipientEmail": "ali.raza@gmail.com",
+          "subject": "Donation Transfer Receipt Received: AWF-DON-2026-2D2736 (PKR 10,000)",
+          "preview": "Dear Ali Raza, thank you for your transfer of PKR 10,000 to our SadaPay account for Education. Your payment screenshot is under manual verification.",
+          "sentAt": "2026-10-30T08:25:53.702Z",
+          "status": "sent"
+        }
+      ],
+      "createdAt": "2026-10-30T08:25:53.702Z",
+      "reconciliationNotes": "Bank transaction statement match: Ref 98214",
+      "verifiedAt": "2026-10-30T08:26:02.894Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "audit-5e186275-5a69-481a-81cc-3851d9aff18b",
+      "timestamp": "2026-10-30T08:32:57.565Z",
+      "action": "FAILED_ADMIN_LOGIN",
+      "category": "security",
+      "details": "Failed login attempt for: rubyosamu67@gmail.com",
+      "actorEmail": "rubyosamu67@gmail.com",
+      "actorRole": "unauthenticated"
+    },
+    {
+      "id": "audit-6c6e1fa0-15ef-4a4a-ac4f-07eef82753e6",
+      "timestamp": "2026-10-30T08:26:02.894Z",
+      "action": "DONATION_MANUALLY_VERIFIED",
+      "category": "donation",
+      "details": "Donation AWF-DON-2026-2D2736 (PKR 10,000) marked as \"verified\" by rubyosamu67@gmail.com. Confirmation email sent: true.",
+      "actorEmail": "rubyosamu67@gmail.com",
+      "actorRole": "admin"
+    },
+    {
+      "id": "audit-bbe4a762-ecf3-4dbc-865e-7e495e44c596",
+      "timestamp": "2026-10-30T08:25:58.112Z",
+      "action": "ADMIN_LOGIN_SUCCESS",
+      "category": "security",
+      "details": "Authorized admin session initiated for rubyosamu67@gmail.com.",
+      "actorEmail": "rubyosamu67@gmail.com",
+      "actorRole": "admin"
+    },
+    {
+      "id": "audit-c61cbf28-962e-4d5c-b16c-ff72b6119f3b",
+      "timestamp": "2026-10-30T08:25:53.702Z",
+      "action": "DONATION_PROOF_SUBMITTED",
+      "category": "donation",
+      "details": "Donation proof AWF-DON-2026-2D2736 submitted for PKR 10,000 (Education). Awaiting admin manual verification.",
+      "actorEmail": "ali.raza@gmail.com",
+      "actorRole": "public"
+    },
+    {
+      "id": "audit-619c2cd7-61f3-4da0-83d5-d29d9540d147",
+      "timestamp": "2026-10-30T08:25:45.365Z",
+      "action": "APPLICATION_SUBMITTED",
+      "category": "application",
+      "details": "New confidential application AWF-HELP-2026-D5123F (Healthcare) received from fatima.bibi@gmail.com. Confirmation email dispatched.",
+      "actorEmail": "fatima.bibi@gmail.com",
+      "actorRole": "public"
+    },
+    {
+      "id": "audit-001",
+      "action": "SYSTEM_INITIALIZATION",
+      "category": "security",
+      "details": "AWF system initialized with Healthcare, Education, and Essential Needs programs and SadaPay account integration.",
+      "actorEmail": "rubyosamu67@gmail.com",
+      "actorRole": "admin",
+      "timestamp": "2026-10-30T08:25:33.612Z"
+    }
+  ],
+  "contactInquiries": [],
+  "adminUsers": [
+    {
+      "id": "usr-admin-primary",
+      "email": "rubyosamu67@gmail.com",
+      "name": "Primary AWF Administrator",
+      "role": "admin",
+      "salt": "74d5ca9ee01a8d4d916c29a00c393aae",
+      "passwordHash": "e75d9792c78d092c537124293996e541a8f3f395ff6a66e6dfcc1ae2b37a39eb8e3323e574fa3a64f7fbc03bec4d999b914ed01903d4679b4f122f0b9a51fa26"
+    }
+  ],
+  "sadaPaySettings": {
+    "accountTitle": "",
+    "iban": "",
+    "accountNumber": "",
+    "bankName": "SadaPay",
+    "instructions": "Please transfer your donation to the official Aban Welfare Foundation SadaPay account, take a screenshot of the completed transfer receipt, and upload it below before submitting."
+  }
+}
